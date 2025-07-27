@@ -52,10 +52,14 @@ function verificarChute() {
   let chute = document.querySelector('input').value;
 
 <<<<<<< HEAD
+<<<<<<< HEAD
   if (isNaN(chute)|| chute.trim === ''){
 =======
   if (isNaN(chute)|| chute.trim() === ''){
 >>>>>>> 9189fa0 (Atualizações no jogo)
+=======
+  if (isNaN(chute)|| chute.trim() === ''){
+>>>>>>> 9189fa0365afe743ab6e3dae539d225de3eb1a9d
     exibirTextoNaTela('p','Por favor, digite um número válido!');
     limparCampo();
     return;
