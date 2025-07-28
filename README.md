@@ -5,4 +5,4 @@
 
 🛠️ Tecnologias utilizadas HTML, CSS e JavaScript
 👤 Público-alvo Estudantes e entusiastas de programação que desejam praticar estruturas condicionais, loops e lógica de jogos simples.
-📦 Como jogar Clone o repositório Abra o arquivo principal (index.html, main.py, etc.) Execute no navegador ou terminal Tente adivinhar o número secreto!
+📦 Como jogar Clone o repositório Abra o arquivo principal. Execute no navegador ou terminal Tente adivinhar o número secreto!
