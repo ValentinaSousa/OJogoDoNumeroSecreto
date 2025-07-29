@@ -22,4 +22,4 @@ Estudantes e entusiastas de programação que desejam praticar estruturas condic
 - Clone o repositório 
 - Abra o arquivo principal. 
 - Execute no navegador ou terminal
-- Tente adivinhar o número secreto!**
+- Tente adivinhar o número secreto!
