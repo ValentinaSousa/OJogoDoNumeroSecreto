@@ -23,3 +23,8 @@ Estudantes e entusiastas de programação que desejam praticar estruturas condic
 - Abra o arquivo principal. 
 - Execute no navegador ou terminal
 - Tente adivinhar o número secreto!
+
+# Autores
+|[<img src="https://avatars.githubusercontent.com/u/175462194?v=4" alt="Avatar da Valentina" width="115"><br><sub>Valentina Sousa</sub>](https://github.com/ValentinaSousa)
+
+| :---: | :---: | :---: |
